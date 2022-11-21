@@ -41,7 +41,7 @@ class Account:
         """
         return self.__account_balance
 
-    def get_name(self) -> float:
+    def get_name(self) -> str:
         """
         Method to access an aacount's name
         :return: Account name
